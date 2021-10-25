@@ -1,5 +1,5 @@
 ### Hi there I am Furkan.👋
-## I am student of computer Science and Engineering at Bursa Technical Universty 
+## I am student of Computer Science and Engineering at Bursa Technical University 
 
 🌱 I’m currently learning java ...
 
