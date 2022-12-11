@@ -1,8 +1,13 @@
 🏫 I am a student at Bursa Technical University from Turkey.
+
 🗒️ I know C and Java.
+
 💻 I am currently learning Data Structure.
+
 📫 How to reach me: furkancapkin1828@gmail.com and Linkedin.
+
 ⚡ Fun fact: 🏓 I am a table tennis player.
+
       
     
 
