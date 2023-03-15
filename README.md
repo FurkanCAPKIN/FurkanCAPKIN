@@ -6,8 +6,6 @@
 
 📫 How to reach me: furkancapkin1828@gmail.com and Linkedin.
 
-⚡ Fun fact: 🏓 I am a table tennis player.
-
       
     
 
