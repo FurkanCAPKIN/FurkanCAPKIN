@@ -2,7 +2,7 @@
 
 🗒️ I know C and Java.
 
-💻 I am currently learning Data Structure.
+💻 I am currently learning Swift.
 
 📫 How to reach me: furkancapkin1828@gmail.com and Linkedin.
 
