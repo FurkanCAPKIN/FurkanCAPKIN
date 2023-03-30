@@ -5,7 +5,7 @@
 
 💻 I am currently learning Swift and Java.
 
-📫 How to reach me: furkancapkin1828@gmail.com and Linkedin.
+📫 How to reach me: furkancapkin1828@gmail.com
 
       
     
