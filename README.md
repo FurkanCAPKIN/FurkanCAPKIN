@@ -1,9 +1,9 @@
 
 🏫 I am a student at Bursa Technical University from Turkey.
 
-🗒️ I know C.
+🗒️ I know C and Java.
 
-💻 I am currently learning Swift and Java.
+💻 I am currently learning Swift.
 
 📫 How to reach me: furkancapkin1828@gmail.com
 
