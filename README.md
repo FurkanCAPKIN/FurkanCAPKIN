@@ -1,4 +1,6 @@
 
+<img src="./Furkan.svg"></img>
+
 ### :man_technologist: About Me :
  
   - :school: I am a student at Bursa Technical University.
