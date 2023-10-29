@@ -24,23 +24,23 @@ svg {
     animation: stroke-offset 5.5s infinite linear;
 }
 .text-copy:nth-child(1){
-	stroke: #dedeff;
+	stroke: #ffffff;
 	animation-delay: -1;
 }
 .text-copy:nth-child(2){
-	stroke: #feda33;
+	stroke: #ff0000;
 	animation-delay: -2s;
 }
 .text-copy:nth-child(3){
-	stroke: #9999ff;
+	stroke: #02029c;
 	animation-delay: -3s;
 }
 .text-copy:nth-child(4){
-	stroke: #7788ff;
+	stroke: #364fff;
 	animation-delay: -4s;
 }
 .text-copy:nth-child(5){
-	stroke: #FDB731;
+	stroke: #f2e718;
 	animation-delay: -5s;
 }
 @keyframes stroke-offset{
