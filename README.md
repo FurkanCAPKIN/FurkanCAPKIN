@@ -1,5 +1,5 @@
 
-<img src="./Furkan.svg"></img>
+<img src="./Furkan1.svg"></img>
 
 ### :man_technologist: About Me :
  
