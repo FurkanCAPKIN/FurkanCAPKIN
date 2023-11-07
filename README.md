@@ -9,7 +9,19 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
 <div align="center">
- <img src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white" />   <img src="https://img.shields.io/badge/xcode-%231575F9.svg?&style=for-the-badge&logo=xcode&logoColor=white" /> <img src="https://img.shields.io/badge/uikit-%232396F3.svg?&style=for-the-badge&logo=uikit&logoColor=white" /> <img  <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/c-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black" />
+ <img src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white" />   
+ <img src="https://img.shields.io/badge/xcode-%231575F9.svg?&style=for-the-badge&logo=xcode&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/uikit-%232396F3.svg?&style=for-the-badge&logo=uikit&logoColor=white" /> 
+ <img  <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/c-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black" />
+ <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+      alt="csharp"
+      width="40"
+      height="40"
+    />
+  </a>
 
 </div>
 
