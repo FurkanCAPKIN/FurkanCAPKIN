@@ -8,7 +8,7 @@
   - <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif?cid=ecf05e47c0sfv41q6nyebtdfw4ztpj7oao1tdg3vczfp7e2e&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="20">  I'm working on Swift language.
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
-### Tech:
+### Tech :
 <div align="center">
  <img src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white" />   
  <img src="https://img.shields.io/badge/xcode-%231575F9.svg?&style=for-the-badge&logo=xcode&logoColor=white" /> 
